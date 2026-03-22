@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="AcademiaDigital.API/AcademiaDigital.API.csproj" />
+  <Project Path="AcademiaDigital.Application/AcademiaDigital.Application.csproj" />
+  <Project Path="AcademiaDigital.Domain/AcademiaDigital.Domain.csproj" />
+  <Project Path="AcademiaDigital.Infrastructure/AcademiaDigital.Infrastructure.csproj" />
+</Solution>
